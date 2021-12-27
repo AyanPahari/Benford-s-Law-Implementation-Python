@@ -24,13 +24,13 @@ A Python program that loads numerical data from the dataset provided, records th
         Chi Square test p value : 1.0
 ## Screenshots(First digit Benford)
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Benford-s-Law-Implementation-Python/blob/master/Screenshots/B1.1.JPG)
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Benford-s-Law-Implementation-Python/blob/master/Screenshots/B1.2.JPG)
 
 
 ## Screenshots(First two digit Benford)
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Benford-s-Law-Implementation-Python/blob/master/Screenshots/B2.1.JPG)
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Benford-s-Law-Implementation-Python/blob/master/Screenshots/B2.2.JPG)
